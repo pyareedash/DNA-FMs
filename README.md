@@ -1,2 +1,3 @@
-# DNA-FMs
-"Heavily inspired from InstaDeep's GitHub repository"
+# Tutorials on DNA-Foundation Models
+- Modified from InstaDeep's GitHub Repository
+
