@@ -5,7 +5,6 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter\&logoColor=white)](https://github.com/pyareedash/DNA-FMs)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python\&logoColor=white)](https://www.python.org/)
 [![Hugging Face](https://img.shields.io/badge/🤗-Transformers-FFD21E)](https://huggingface.co/)
-[![Workshop](https://img.shields.io/badge/Ensembl%20Genomes-Hackathon%20Workshop-4C8CBF)](https://tinyurl.com/hackathon-dnafm)
 
 A hands-on tutorial introducing **DNA foundation models**, with a particular focus on the **Nucleotide Transformer** family and **SegmentNT**.
 
