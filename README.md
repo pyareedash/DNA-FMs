@@ -10,8 +10,6 @@ A hands-on tutorial introducing **DNA foundation models**, with a particular foc
 
 The notebooks move from fundamental DNA sequence representations to contextual embeddings, biological feature exploration, supervised fine-tuning, and nucleotide-resolution genome annotation.
 
-This tutorial was prepared for the **Ensembl Genomes Hackathon Workshop**.
-
 ---
 
 ## Run the tutorials
